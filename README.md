@@ -18,7 +18,7 @@ SwiftEncryptor is a Swift-based command-line tool for encrypting files using the
 1. Clone the repository:
 
 ```
-git clone https://github.com/generalMG/SwiftEncryptor.git
+git clone https://github.com/generalMG/SwiftEncryption.git
 cd SwiftEncryptor
 ```
 
