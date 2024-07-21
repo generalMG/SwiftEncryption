@@ -17,12 +17,16 @@ SwiftEncryptor is a Swift-based command-line tool for encrypting files using the
 
 1. Clone the repository:
 
-```git clone https://github.com/generalMG/SwiftEncryptor.git```
-```cd SwiftEncryptor```
+```
+git clone https://github.com/generalMG/SwiftEncryptor.git
+cd SwiftEncryptor
+```
 
 2. Build the project using Swift Package Manager:
 
-```swift build```
+```
+swift build
+```
 
 ## Usage
 
@@ -30,13 +34,17 @@ SwiftEncryptor is a Swift-based command-line tool for encrypting files using the
 
 To encrypt a file, use the following command:
 
-```swift run Encryptor <file_path> <password>```
+```
+swift run Encryptor <file_path> <password>
+```
 
 ### Example
 
 Encrypting a file named example.txt with the password mySecret:
 
-```swift run Encryptor example.txt mySecret```
+```
+swift run Encryptor example.txt mySecret
+```
 
 ## Project Structure
 
