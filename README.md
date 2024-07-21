@@ -48,8 +48,8 @@ swift run Encryptor example.txt mySecret
 
 ## Project Structure
 
-•	Package.swift: Defines the Swift package and its dependencies.
-•	Sources/: Contains the source code for the project.
-	•	main.swift: The entry point of the command-line tool.
-	•	MLCryptor.swift: Contains the encryption and decryption logic using CryptoKit.
-	•	MLEncoderTool.swift: Defines the command-line interface and integrates with MLCryptor.
+- Package.swift: Defines the Swift package and its dependencies.
+- Sources/: Contains the source code for the project.
+  - main.swift: The entry point of the command-line tool.
+  - MLCryptor.swift: Contains the encryption and decryption logic using CryptoKit.
+  - MLEncoderTool.swift: Defines the command-line interface and integrates with MLCryptor.
