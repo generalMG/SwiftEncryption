@@ -4,14 +4,14 @@ SwiftEncryptor is a Swift-based command-line tool for encrypting files using the
 
 ## Features
 
-	•	Encrypt files with a specified password
-	•	Decrypt files with the corresponding password
-	•	Command-line interface for easy integration into workflows
+- Encrypt files with a specified password
+- Decrypt files with the corresponding password
+- Command-line interface for easy integration into workflows
 
 ## Requirements
 
-	•	macOS 10.15 or later
-	•	Swift 5.10 or later
+- macOS 10.15 or later
+- Swift 5.10 or later
 
 ## Installation
 
